@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/annushka1911g-max/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 ## Stack
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/annushka1911g-max/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/annushka1911g-max/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
