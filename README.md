@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/annushka1911g-max/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/annushka1911g-max/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/annushka1911g-max/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
 ## Tree
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
