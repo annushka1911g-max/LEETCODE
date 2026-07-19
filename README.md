@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 ## Array
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
