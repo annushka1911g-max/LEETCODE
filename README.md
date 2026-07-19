@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/annushka1911g-max/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
