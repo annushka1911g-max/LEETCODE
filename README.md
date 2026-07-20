@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/annushka1911g-max/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/annushka1911g-max/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/annushka1911g-max/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/annushka1911g-max/LEETCODE/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/annushka1911g-max/LEETCODE/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 ## Greedy
