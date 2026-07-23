@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/annushka1911g-max/LEETCODE/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annushka1911g-max/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/annushka1911g-max/LEETCODE/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/annushka1911g-max/LEETCODE/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
