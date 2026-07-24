@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/annushka1911g-max/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 ## Array
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/annushka1911g-max/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/annushka1911g-max/LEETCODE/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/annushka1911g-max/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annushka1911g-max/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/annushka1911g-max/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Matrix
 |  |
 | ------- |
