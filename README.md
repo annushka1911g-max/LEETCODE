@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/annushka1911g-max/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/annushka1911g-max/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/annushka1911g-max/LEETCODE/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 ## Stack
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/annushka1911g-max/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/annushka1911g-max/LEETCODE/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/annushka1911g-max/LEETCODE/tree/master/0120-triangle) |
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 ## Tree
