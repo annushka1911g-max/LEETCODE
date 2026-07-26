@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/annushka1911g-max/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/annushka1911g-max/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/annushka1911g-max/LEETCODE/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/2513-minimize-the-maximum-of-two-arrays) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
