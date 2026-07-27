@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/annushka1911g-max/LEETCODE/tree/master/0289-game-of-life) |
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 | [0622-design-circular-queue](https://github.com/annushka1911g-max/LEETCODE/tree/master/0622-design-circular-queue) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
