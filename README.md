@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
