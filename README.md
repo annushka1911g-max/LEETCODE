@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0100-same-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/annushka1911g-max/LEETCODE/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
