@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Stack
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/annushka1911g-max/LEETCODE/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 ## Design
 |  |
