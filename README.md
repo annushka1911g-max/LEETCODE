@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/annushka1911g-max/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/annushka1911g-max/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/annushka1911g-max/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/annushka1911g-max/LEETCODE/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/annushka1911g-max/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
