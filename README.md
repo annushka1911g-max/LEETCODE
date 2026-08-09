@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/annushka1911g-max/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/annushka1911g-max/LEETCODE/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/annushka1911g-max/LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/annushka1911g-max/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/annushka1911g-max/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/annushka1911g-max/LEETCODE/tree/master/0120-triangle) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/annushka1911g-max/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/annushka1911g-max/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/annushka1911g-max/LEETCODE/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/annushka1911g-max/LEETCODE/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 ## Design
