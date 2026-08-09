@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annushka1911g-max/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/annushka1911g-max/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0217-contains-duplicate](https://github.com/annushka1911g-max/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/annushka1911g-max/LEETCODE/tree/master/0289-game-of-life) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/annushka1911g-max/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/annushka1911g-max/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/annushka1911g-max/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
