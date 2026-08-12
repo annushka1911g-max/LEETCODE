@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/annushka1911g-max/LEETCODE/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/annushka1911g-max/LEETCODE/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/annushka1911g-max/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/annushka1911g-max/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/annushka1911g-max/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annushka1911g-max/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/annushka1911g-max/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/annushka1911g-max/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annushka1911g-max/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/annushka1911g-max/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/annushka1911g-max/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annushka1911g-max/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
