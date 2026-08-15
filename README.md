@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/annushka1911g-max/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annushka1911g-max/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/annushka1911g-max/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/annushka1911g-max/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/annushka1911g-max/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/annushka1911g-max/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/annushka1911g-max/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/annushka1911g-max/LEETCODE/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/annushka1911g-max/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
@@ -316,4 +319,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/annushka1911g-max/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
