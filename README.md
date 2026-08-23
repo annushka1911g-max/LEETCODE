@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0382-linked-list-random-node](https://github.com/annushka1911g-max/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/annushka1911g-max/LEETCODE/tree/master/0622-design-circular-queue) |
 ## Recursion
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/annushka1911g-max/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
+| [0382-linked-list-random-node](https://github.com/annushka1911g-max/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -344,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/annushka1911g-max/LEETCODE/tree/master/0051-n-queens) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/annushka1911g-max/LEETCODE/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/annushka1911g-max/LEETCODE/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
