@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annushka1911g-max/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annushka1911g-max/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0400-nth-digit](https://github.com/annushka1911g-max/LEETCODE/tree/master/0400-nth-digit) |
 | [0897-increasing-order-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Binary Tree
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/annushka1911g-max/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/annushka1911g-max/LEETCODE/tree/master/0382-linked-list-random-node) |
+| [0400-nth-digit](https://github.com/annushka1911g-max/LEETCODE/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
