@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/annushka1911g-max/LEETCODE/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/annushka1911g-max/LEETCODE/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/annushka1911g-max/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/annushka1911g-max/LEETCODE/tree/master/0223-rectangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
