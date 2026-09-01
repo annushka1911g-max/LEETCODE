@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/annushka1911g-max/LEETCODE/tree/master/0622-design-circular-queue) |
 | [1207-unique-number-of-occurrences](https://github.com/annushka1911g-max/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/annushka1911g-max/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/annushka1911g-max/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/annushka1911g-max/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/annushka1911g-max/LEETCODE/tree/master/0289-game-of-life) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/annushka1911g-max/LEETCODE/tree/master/1009-complement-of-base-10-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0112-path-sum) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
 | ------- |
