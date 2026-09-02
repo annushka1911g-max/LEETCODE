@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 | [0622-design-circular-queue](https://github.com/annushka1911g-max/LEETCODE/tree/master/0622-design-circular-queue) |
 | [1207-unique-number-of-occurrences](https://github.com/annushka1911g-max/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/annushka1911g-max/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/annushka1911g-max/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/annushka1911g-max/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0400-nth-digit](https://github.com/annushka1911g-max/LEETCODE/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [1512-number-of-good-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
