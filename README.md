@@ -410,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/annushka1911g-max/LEETCODE/tree/master/2336-smallest-number-in-infinite-set) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
