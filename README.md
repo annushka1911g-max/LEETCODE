@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/annushka1911g-max/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/annushka1911g-max/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
+| [0887-super-egg-drop](https://github.com/annushka1911g-max/LEETCODE/tree/master/0887-super-egg-drop) |
 ## Tree
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annushka1911g-max/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0400-nth-digit](https://github.com/annushka1911g-max/LEETCODE/tree/master/0400-nth-digit) |
+| [0887-super-egg-drop](https://github.com/annushka1911g-max/LEETCODE/tree/master/0887-super-egg-drop) |
 | [0897-increasing-order-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Binary Tree
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/annushka1911g-max/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0400-nth-digit](https://github.com/annushka1911g-max/LEETCODE/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0887-super-egg-drop](https://github.com/annushka1911g-max/LEETCODE/tree/master/0887-super-egg-drop) |
 | [1512-number-of-good-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
