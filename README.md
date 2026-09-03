@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/annushka1911g-max/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/annushka1911g-max/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/annushka1911g-max/LEETCODE/tree/master/2336-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/annushka1911g-max/LEETCODE/tree/master/0290-word-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/annushka1911g-max/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/annushka1911g-max/LEETCODE/tree/master/2336-smallest-number-in-infinite-set) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/annushka1911g-max/LEETCODE/tree/master/0622-design-circular-queue) |
+| [2336-smallest-number-in-infinite-set](https://github.com/annushka1911g-max/LEETCODE/tree/master/2336-smallest-number-in-infinite-set) |
 ## Number Theory
 |  |
 | ------- |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/1512-number-of-good-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/annushka1911g-max/LEETCODE/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
