@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/annushka1911g-max/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/annushka1911g-max/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/annushka1911g-max/LEETCODE/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/annushka1911g-max/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/annushka1911g-max/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/annushka1911g-max/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/annushka1911g-max/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/annushka1911g-max/LEETCODE/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/annushka1911g-max/LEETCODE/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/annushka1911g-max/LEETCODE/tree/master/0149-max-points-on-a-line) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/annushka1911g-max/LEETCODE/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/annushka1911g-max/LEETCODE/tree/master/0289-game-of-life) |
 ## Trie
 |  |
