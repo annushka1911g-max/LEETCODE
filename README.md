@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/annushka1911g-max/LEETCODE/tree/master/0290-word-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Stack
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 | [0887-super-egg-drop](https://github.com/annushka1911g-max/LEETCODE/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/annushka1911g-max/LEETCODE/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/annushka1911g-max/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annushka1911g-max/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
