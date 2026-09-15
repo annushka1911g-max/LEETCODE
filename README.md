@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/annushka1911g-max/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/annushka1911g-max/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/annushka1911g-max/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/annushka1911g-max/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/annushka1911g-max/LEETCODE/tree/master/0043-multiply-strings) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/annushka1911g-max/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/annushka1911g-max/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/annushka1911g-max/LEETCODE/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0039-combination-sum) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/annushka1911g-max/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/annushka1911g-max/LEETCODE/tree/master/0139-word-break) |
 ## Memoization
 |  |
