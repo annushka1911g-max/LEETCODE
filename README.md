@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/annushka1911g-max/LEETCODE/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/annushka1911g-max/LEETCODE/tree/master/0289-game-of-life) |
+| [3498-reverse-degree-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
