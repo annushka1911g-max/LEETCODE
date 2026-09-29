@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/annushka1911g-max/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/annushka1911g-max/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/annushka1911g-max/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/annushka1911g-max/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/annushka1911g-max/LEETCODE/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/annushka1911g-max/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 ## Tree
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/annushka1911g-max/LEETCODE/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/annushka1911g-max/LEETCODE/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/annushka1911g-max/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -475,4 +478,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/annushka1911g-max/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
