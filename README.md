@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/annushka1911g-max/LEETCODE/tree/master/0290-word-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/annushka1911g-max/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0897-increasing-order-search-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0897-increasing-order-search-tree) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
