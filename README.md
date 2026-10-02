@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/annushka1911g-max/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/annushka1911g-max/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/annushka1911g-max/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/annushka1911g-max/LEETCODE/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/annushka1911g-max/LEETCODE/tree/master/0072-edit-distance) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/annushka1911g-max/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/annushka1911g-max/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/annushka1911g-max/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0062-unique-paths) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/annushka1911g-max/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/annushka1911g-max/LEETCODE/tree/master/0051-n-queens) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/annushka1911g-max/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
