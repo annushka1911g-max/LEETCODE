@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/annushka1911g-max/LEETCODE/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/annushka1911g-max/LEETCODE/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/annushka1911g-max/LEETCODE/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/annushka1911g-max/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/annushka1911g-max/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0494-target-sum) |
 ## Design
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/annushka1911g-max/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/annushka1911g-max/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
