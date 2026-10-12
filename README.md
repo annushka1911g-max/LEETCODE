@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/annushka1911g-max/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/annushka1911g-max/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/annushka1911g-max/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3524-find-x-value-of-array-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/annushka1911g-max/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/annushka1911g-max/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/annushka1911g-max/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/annushka1911g-max/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2336-smallest-number-in-infinite-set](https://github.com/annushka1911g-max/LEETCODE/tree/master/2336-smallest-number-in-infinite-set) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/annushka1911g-max/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/annushka1911g-max/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annushka1911g-max/LEETCODE/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/annushka1911g-max/LEETCODE/tree/master/1009-complement-of-base-10-integer) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/annushka1911g-max/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
