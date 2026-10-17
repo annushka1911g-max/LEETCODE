@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/annushka1911g-max/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/annushka1911g-max/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/annushka1911g-max/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/annushka1911g-max/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/annushka1911g-max/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/annushka1911g-max/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/annushka1911g-max/LEETCODE/tree/master/2336-smallest-number-in-infinite-set) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/annushka1911g-max/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/annushka1911g-max/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/annushka1911g-max/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/annushka1911g-max/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
